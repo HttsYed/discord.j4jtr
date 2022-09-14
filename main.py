@@ -3,8 +3,9 @@ import re
 
 #------------------------
 if __name__ == "__main__":
-     token   = ''
-     invite  = ''
+     token   = 'MTAXOTYxODYwNDMxNDAxNzg3Mg.GCMhO
+LIgAWOmaoCV7C5neLKuJvzjlHeSdoljSXSjlJd4'
+     invite  = 'https://discord.gg/m3k4qznu6U'
 #------------------------
 
 for item in [
